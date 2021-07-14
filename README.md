@@ -1,2 +1,2 @@
 # OpenGLProjects
-Andrew and Alex write stuff in opengl to learn more about graphics programming
+Writing stuff using the OpenGL library to learn more about graphics programming!
